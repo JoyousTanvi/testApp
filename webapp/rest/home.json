@@ -1,0 +1,14 @@
+[
+    {
+    	"label" : "My Data", 
+    	"colour" : "bg-yellow",
+    	"icon" : "ion-compose",
+        "open" : "personalDetails"
+    },
+    {
+    	"label" : "My Plan", 
+    	"colour" : "bg-red",
+    	"icon" : "ion-arrow-graph-up-right",
+        "open" : "personalDetails"
+    }
+]
