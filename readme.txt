@@ -10,4 +10,11 @@ $/webapp> npm install angular-route
 
 2. in server folder
 
-$/webapp> npm install express
+$/server> npm install express
+
+
+--------------------
+
+To run the server
+
+$/server> node server.js
